@@ -1,0 +1,1 @@
+(self.webpackChunkmy_new_blog=self.webpackChunkmy_new_blog||[]).push([[5684],{9039:(e,s,n)=>{"use strict";n.d(s,{Z:()=>c});var b=n(1336);n(892)(b),n(592)(b);const c=b},5525:()=>{}}]);

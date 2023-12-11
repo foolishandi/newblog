@@ -1,0 +1,261 @@
+{
+  "/en/blog-fe5": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "446641b2"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "fba6c282"
+  },
+  "/en/blog/archive-a81": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "446641b2"
+    },
+    "archive": "f6cbeee1"
+  },
+  "/en/blog/first-blog-post-e87": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "446641b2"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/en/blog/long-blog-post-019": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "446641b2"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/en/blog/mdx-blog-post-b33": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "446641b2"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/en/blog/tags-862": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "446641b2"
+    },
+    "sidebar": "814f3328",
+    "tags": "9bdd22eb"
+  },
+  "/en/blog/tags/docusaurus-89b": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "446641b2"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "f3f8ac04",
+    "listMetadata": "3bf4969f"
+  },
+  "/en/blog/tags/facebook-96d": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "446641b2"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "62ad6a78",
+    "listMetadata": "f3dd2eb3"
+  },
+  "/en/blog/tags/hello-f7a": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "446641b2"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "a1db8d77",
+    "listMetadata": "bc4100c0"
+  },
+  "/en/blog/tags/hola-bbf": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "446641b2"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "e510ad2d",
+    "listMetadata": "bb62ac18"
+  },
+  "/en/blog/welcome-be2": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "446641b2"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/en/markdown-page-ab5": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "aaee33c3"
+    },
+    "content": "393be207"
+  },
+  "/en/docs-b11": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "bcfb97f5"
+    }
+  },
+  "/en/docs/next-06a": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
+  },
+  "/en/docs/next-bfe": {
+    "__comp": "a94703ab"
+  },
+  "/en/docs/next/category/tutorial---basics-20e": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "866fbd70"
+  },
+  "/en/docs/next/category/tutorial---extras-c9c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "4a555c85"
+  },
+  "/en/docs/next/intro-61d": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/en/docs/next/tutorial-basics/congratulations-2e7": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/en/docs/next/tutorial-basics/create-a-blog-post-378": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/en/docs/next/tutorial-basics/create-a-document-026": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/en/docs/next/tutorial-basics/create-a-page-e8c": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/en/docs/next/tutorial-basics/deploy-your-site-71c": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/en/docs/next/tutorial-basics/markdown-features-0e6": {
+    "__comp": "17896441",
+    "content": "18c41134"
+  },
+  "/en/docs/next/tutorial-extras/manage-docs-versions-92e": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/en/docs/next/tutorial-extras/translate-your-site-e76": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  },
+  "/en/docs-14b": {
+    "__comp": "a7bd4aaa",
+    "version": "352e0155"
+  },
+  "/en/docs-f4a": {
+    "__comp": "a94703ab"
+  },
+  "/en/docs/category/tutorial---basics-47e": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "8b16fb36"
+  },
+  "/en/docs/category/tutorial---extras-134": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "efea824d"
+  },
+  "/en/docs/intro-606": {
+    "__comp": "17896441",
+    "content": "7bd8db71"
+  },
+  "/en/docs/tutorial-basics/congratulations-09c": {
+    "__comp": "17896441",
+    "content": "eeb96334"
+  },
+  "/en/docs/tutorial-basics/create-a-blog-post-120": {
+    "__comp": "17896441",
+    "content": "dfd6369c"
+  },
+  "/en/docs/tutorial-basics/create-a-document-c96": {
+    "__comp": "17896441",
+    "content": "84dc12ab"
+  },
+  "/en/docs/tutorial-basics/create-a-page-098": {
+    "__comp": "17896441",
+    "content": "4f7e5deb"
+  },
+  "/en/docs/tutorial-basics/deploy-your-site-5d3": {
+    "__comp": "17896441",
+    "content": "49f83d3d"
+  },
+  "/en/docs/tutorial-basics/markdown-features-762": {
+    "__comp": "17896441",
+    "content": "1fe381bb"
+  },
+  "/en/docs/tutorial-extras/manage-docs-versions-2ce": {
+    "__comp": "17896441",
+    "content": "292d36c1"
+  },
+  "/en/docs/tutorial-extras/translate-your-site-e9e": {
+    "__comp": "17896441",
+    "content": "f8261bc8"
+  },
+  "/en/-688": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "aaee33c3"
+    },
+    "config": "5e9f5e1a"
+  }
+}
